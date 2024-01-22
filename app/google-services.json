@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684639090850",
+    "project_id": "todolist-cb61b",
+    "storage_bucket": "todolist-cb61b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684639090850:android:7d2c7b5eb1c0712422bffb",
+        "android_client_info": {
+          "package_name": "com.sinixcode.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5BOo3yKFrSOLV0Ps-Cl_FB_cyv-qINTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
